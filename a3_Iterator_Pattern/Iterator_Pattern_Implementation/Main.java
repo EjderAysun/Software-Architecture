@@ -80,5 +80,14 @@ class CollectionIterator implements AbstractIterator {
     public void First() {_current = 0;}
     public void Next() {_current++;}
     public Boolean IsDone() {return _current >= _collection.getCount();}
+    
+    // How do you implement reverse traversal iterator:
+    /*
+    public void First() {_current = _collection.getCount()-1;}
+    public void Next() {_current--;}
+    public Boolean IsDone() {return _current < 0;}
+    */
+    // printAggregate() does NOT change!
+    
     public Item CurrentItem() {return (IsDone()?null:_collection.get(_current));}
 }
