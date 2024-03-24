@@ -1,4 +1,4 @@
-package SE_311_Theory.a1_Singleton_Pattern;
+package a1_Singleton_Pattern;
 
 public class X {
     // The private reference to the one and only instance.
