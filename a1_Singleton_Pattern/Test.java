@@ -1,4 +1,4 @@
-package The_Singleton_Pattern;
+package SE_311_Theory.a1_Singleton_Pattern;
 
 public class Test {
     public static void main(String[] args) {
