@@ -18,4 +18,4 @@ public class X {
     }
 }
 
-// NOTE: To make the code more understandable, you can put "Instance" word instead of every "X" word.
+// NOTE: To make the code more understandable, you can put "Singleton" word instead of every "X" word.
