@@ -1,4 +1,4 @@
-package a8_Adapter_Pattern.Adapter_Pattern_Implementation;
+package a8_Adapter_Pattern;
 
 // This is the "Target" class.
 // North America Socket.
