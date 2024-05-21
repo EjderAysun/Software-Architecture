@@ -1,4 +1,4 @@
-package a8_Adapter_Pattern.Adapter_Pattern_Implementation;
+package a8_Adapter_Pattern;
 
 // This is the "Target" class.
 // North America Socket.
@@ -54,5 +54,5 @@ public class ObjectAdapterPattern {
     }
 }
 
-// Note: You cannot run this file in the same file as ClassAdapterPattern.java.
+// Note: You cannot run this file in the same file as ClassAdapterPattern.java because of there are 2 main.
 // Please move it or the other one to another file.

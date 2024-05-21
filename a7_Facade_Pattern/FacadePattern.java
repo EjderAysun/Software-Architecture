@@ -1,4 +1,4 @@
-package a7_Facade_Pattern.Facade_Pattern_Implementation;
+package a7_Facade_Pattern;
 
 class Customer {
     private String name;
