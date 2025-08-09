@@ -1,1 +1,1 @@
-README.md will be updated soon.
+Status: suspended indefinitely
